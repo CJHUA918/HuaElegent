@@ -1,2 +1,2 @@
-# HuaElegent
-# thank you 
+# 首个仓库开放啦！
+欢迎光临
